@@ -1,40 +1,40 @@
 {
- "clientes":{
-  {
-     "pkUsuario":1,
-     "nombre":"Chuy",
-     "status":"Con dudas",
-     "colorFondo":"#faf2e1",
-     "colorLetra":"#fd923b"
-  },
-  {
-     "pkUsuario":2,
-     "nombre":"Patricio Estrella",
-     "status":"Sin contacto",
-     "colorFondo":"#265dadff",
-     "colorLetra":"#5dadff"
-  },
-  {
-     "pkUsuario":3,
-     "nombre":"Arenita Mejilla",
-     "status":"No interesado",
-     "colorFondo":"#f9e4e4",
-     "colorLetra":"#f96168"
-  }
-  ,
-  {
-     "pkUsuario":4,
-     "nombre":"Don Cangrejo",
-     "status":"No interesado",
-     "colorFondo":"#f9e4e4",
-     "colorLetra":"#f96168"
-  },
-  {
-     "pkUsuario":5,
-     "nombre":"Calamardo Tentaculos",
-     "status":"Sin contacto",
-     "colorFondo":"#265dadff",
-     "colorLetra":"#5dadff"
-  }
-}
+    "clientes":[
+        {
+            "pkUsuario":1,
+            "nombre":"Chuy",
+            "status":"Con dudas",
+            "colorFondo":"#faf2e1",
+            "colorLetra":"#fd923b"
+         },
+         {
+            "pkUsuario":2,
+            "nombre":"Patricio Estrella",
+            "status":"Sin contacto",
+            "colorFondo":"#265dadff",
+            "colorLetra":"#5dadff"
+         },
+         {
+            "pkUsuario":3,
+            "nombre":"Arenita Mejilla",
+            "status":"No interesado",
+            "colorFondo":"#f9e4e4",
+            "colorLetra":"#f96168"
+         }
+         ,
+         {
+            "pkUsuario":4,
+            "nombre":"Don Cangrejo",
+            "status":"No interesado",
+            "colorFondo":"#f9e4e4",
+            "colorLetra":"#f96168"
+         },
+         {
+            "pkUsuario":5,
+            "nombre":"Calamardo Tentaculos",
+            "status":"Sin contacto",
+            "colorFondo":"#265dadff",
+            "colorLetra":"#5dadff"
+         }
+        ]
 }
