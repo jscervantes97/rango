@@ -34,26 +34,5 @@
     "status":"Sin contacto",
     "colorFondo":"#265dadff",
     "colorLetra":"#5dadff"
- },
- {
-    "pkUsuario":6,
-    "nombre":"Jose Carlos",
-    "status":"Con dudas",
-    "colorFondo":"#faf2e1",
-    "colorLetra":"#fd923b"
- },
- {
-    "pkUsuario":8,
-    "nombre":"Alarid Chambeador",
-    "status":"No interesado",
-    "colorFondo":"#f9e4e4",
-    "colorLetra":"#f96168"
- },
- {
-    "pkUsuario":9,
-    "nombre":"Ayon 15 puntos crack",
-    "status":"No interesado",
-    "colorFondo":"#f9e4e4",
-    "colorLetra":"#f96168"
  }
 ]
